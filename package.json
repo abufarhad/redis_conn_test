@@ -1,0 +1,22 @@
+{
+    "name": "redis-connection-sample",
+    "version": "1.0.0",
+    "description": "A sample Node.js project to connect to Redis using environment variables.",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "keywords": [
+      "redis",
+      "nodejs",
+      "dotenv"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.0.3",
+      "redis": "^4.0.0"
+    }
+  }
+  
